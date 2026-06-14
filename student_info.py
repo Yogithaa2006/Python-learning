@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+department = input("Enter your department: ")
+cgpa = input("Enter your CGPA: ")
+
+print("\n")
+print("Name:", name)
+print("Age:", age)
+print("Department:", department)
+print("CGPA:", cgpa)
