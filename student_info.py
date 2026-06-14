@@ -1,7 +1,7 @@
 name = input("Enter your name: ")
-age = input("Enter your age: ")
+age = int(input("Enter your age: "))
 department = input("Enter your department: ")
-cgpa = input("Enter your CGPA: ")
+cgpa = float(input("Enter your CGPA: "))
 
 print("\n")
 print("Name:", name)
