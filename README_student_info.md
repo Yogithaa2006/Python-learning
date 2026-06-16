@@ -45,4 +45,5 @@ CGPA       : 8.54
 ## Goals
 - [ ] Complete 30 days consistently
 - [ ] Build a small project at the end
-Author:Yogithaa
+
+## Author:Yogithaa
