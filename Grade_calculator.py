@@ -5,5 +5,5 @@ elif(mark>=75 and mark<=89):
     print("Grade B")
 elif(mark>=50 and mark<=74):
     print("Grade C")
-elif(mark<=50):
+else:
     print("Grade F")
