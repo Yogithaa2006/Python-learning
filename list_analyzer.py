@@ -4,7 +4,7 @@ def get_numbers():
     n=int(input("enter number of elements:"))
  
     for i in range(n):
-       i=int(input("enter element"))
+       i=int(input("enter element:"))
        numbers.append(i)
     print(numbers)
 
